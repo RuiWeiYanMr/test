@@ -1932,7 +1932,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://dimaston.github.io/live.m3u",
+      "url": "https://raw.githubusercontent.com/RuiWeiYanMr/test/master/live/18live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
